@@ -6,9 +6,9 @@ The current repository is orgainzed as per the following structure.
 * Description of the paper, repository, and data sets used in the paper 
 
 ## Publication of the paper
-* Manuscript [Link to be added]
-* Supplementary materials [Link to be added]
-* Supplementary materials **with page numbers**: Park_abb1197_SM_with_page_numbers.pdf (in this directory)
+* Manuscript: https://advances.sciencemag.org/content/6/30/eabb1197
+* Supplementary materials: https://advances.sciencemag.org/content/suppl/2020/07/20/6.30.eabb1197.DC1
+* Supplementary materials **with page numbers**: `Park_abb1197_SM_with_page_numbers.pdf` (in this directory)
 
 ## Figures
 * 1-figure1: Readme and code for Fig. 1A-1F
