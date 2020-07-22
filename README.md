@@ -1,5 +1,5 @@
 # paper-dark-fishing-fleets-in-north-korea
-This repository contains the codes and figures used in the paper "Dark fishing fleets in North Korea", published in *Science Advances* on July 22, 2020. The methodologies and references can be found in the Supplementary materials of the paper
+This repository contains the codes and figures used in the paper "Dark fishing fleets in North Korea," published in *Science Advances* on July 22, 2020. The methodologies and references can be found in the Supplementary materials of the paper
 The current repository is orgainzed as per the following structure.
 
 ## Readme 
