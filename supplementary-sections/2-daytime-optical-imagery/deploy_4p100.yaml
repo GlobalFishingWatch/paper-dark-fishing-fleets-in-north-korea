@@ -1,0 +1,12 @@
+region: us-central1
+staging_bucket: gs://world-fishing-827-ml-east
+tensor_flow_config_template: | # This gets interpolated and then passed onto TF
+  trainingInput:
+    args: [
+      "--model-dir",
+      "gs://world-fishing-827/machine-learning-dev-ttl-120d/runs/{job_name}",
+      {extra_args}
+      ]
+    scaleTier: CUSTOM
+    masterType: complex_model_m_p100
+    runtimeVersion: "1.10"
